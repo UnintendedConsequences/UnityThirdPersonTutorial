@@ -102,7 +102,7 @@ Transition:
     m_ConditionEvent: Speed
     m_EventTreshold: .0500000007
     m_ExitTime: .533195019
-  m_Atomic: 1
+  m_Atomic: 0
   m_Solo: 0
   m_Mute: 0
   m_CanTransitionToSelf: 0
